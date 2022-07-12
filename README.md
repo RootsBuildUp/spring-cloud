@@ -13,6 +13,8 @@
 
 Spring Cloud is a framework for building robust cloud applications and it provides a solution to the commonly encountered patterns when developing a distributed system. Spring Cloud framework provides tools for developers to quickly build both cloud applications and microservice-based applications.
 
+![microservices](images/introduction-to-microservices.png)
+
 **[⬆ Back to Top](#table-of-contents)**
 
 2. ### what we will learn in this session?
